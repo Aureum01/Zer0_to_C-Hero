@@ -29,3 +29,26 @@ To run any of the projects in this repository, you will need to have the followi
 
 Each project contains its own instructions for running the project, including installation instructions and configuration details.
 Contributing
+
+# Security Projects: Zero to Hero
+
+Beginner:
+
+    Password Generator: Create a simple application that generates strong passwords.
+    Basic Encryption/Decryption Tool: Build a program that can encrypt and decrypt text using basic algorithms like Caesar cipher.
+    File/Folder Locker: Develop a tool to lock and unlock files or folders with a password.
+
+Intermediate:
+    Login System with Hashing: Create a secure login system using password hashing (like bcrypt) and user authentication.
+    Network Scanner: Build a tool to scan your local network for connected devices and open ports.
+    Vulnerability Scanner: Develop a simple scanner that checks websites for common vulnerabilities like SQL injection.
+
+Advanced:
+    Web Application Firewall (WAF): Create a WAF that can detect and block malicious requests to a web application.
+    Intrusion Detection System (IDS): Build an IDS that monitors network traffic and alerts on suspicious activities.
+    Encryption Library: Develop a library that offers various encryption algorithms for secure data transmission.
+
+Hero:
+    Penetration Testing Platform: Create a comprehensive platform that automates penetration testing tasks and generates reports.
+    Security Information and Event Management (SIEM) System: Build a SIEM system that collects and analyzes security data from various sources.
+    Advanced Malware Analysis Tool: Develop a tool that can analyze and dissect sophisticated malware samples.
