@@ -10,6 +10,7 @@ The projects in this repository were built using a range of technologies, includ
     ASP.NET Core
     Entity Framework Core
     SQL Server
+    Updating...
 
 # Project Structure
 
