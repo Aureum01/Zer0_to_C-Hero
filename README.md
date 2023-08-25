@@ -28,7 +28,10 @@ To run any of the projects in this repository, you will need to have the followi
     SQL Server or another database management system of your choice
 
 Each project contains its own instructions for running the project, including installation instructions and configuration details.
-Contributing
+
+# Why?
+
+Consider all of these projects highlight my desire to learn and apply predictive analysis in cybersecurity for behavioral analytics and make behavioral analytics the next big thing, but also to learn in an environment where an easy way is around the corner. However, sometimes taking the easy way is like avoiding making mistakes. You never learn from anything! :)
 
 # Cybersecurity
 
