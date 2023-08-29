@@ -247,3 +247,5 @@ Consider all of these projects highlight my desire to learn and apply predictive
     * AI-Driven Rehabilitation Program: Develop an AI-driven program that adapts to individual criminal behavior to aid in rehabilitation.
 
     * Universal Behavior Translation System: Create a system that can translate and interpret human behavior across different cultures and societies.
+    
+    * Cybercrime Behavior Tracking System: Create a system driven by AI that can pick up behavioral patterns of cyber criminals to predict their methodologies.
